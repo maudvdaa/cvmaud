@@ -53,3 +53,11 @@ h3 {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.language-level {
+	color:burlywood;
+	border-color:aquamarine !important;
+}
+.language-progress {
+	background-color:cornflowerblue !important;
+}
