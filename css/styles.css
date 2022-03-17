@@ -7,13 +7,17 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color: #F2E8DC;
 	background-color: #f8f8fc;
 }
 
 h3 {
 	font-family: "amatic-sc";
 	
+}
+
+h2 {
+	font-family:Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', 'monospace';
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
@@ -40,7 +44,7 @@ h3 {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #F25835;
 }
 
 .biography-details li, .skill-list li {
