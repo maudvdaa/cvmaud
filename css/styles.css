@@ -6,19 +6,15 @@
 /* Styles for the body */
 
 body {
-	font-family: "alfa-slab-one";
 	color: #F2E8DC;
 	background-color: #CEF2F2;
 }
 h1 {
 	font-family: "Sigmar One";
 }
-h3 {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"	
-}
 
 h2 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	font-family: "sigmar One";
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
